@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CompanySimple_app</string>
+    <string name="nintendo">Nintendo</string>
+    <string name="email_id">Email id:nin@gmail.com</string>
+    <string name="address_uk">Address: UK</string>
+    <string name="number">Number:123456789</string>
+    <string name="phone_number">Phone Number:</string>
+</resources>
